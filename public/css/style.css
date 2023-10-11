@@ -136,3 +136,38 @@ footer ul li a {
     text-decoration: none;
     color: #777;
 }
+
+.form-container {
+    text-align: center;
+    margin: 1rem;
+}
+
+.result-container {
+    text-align: center;
+    margin: 0.5rem;
+}
+
+.movie-data-list li span {
+    text-decoration: none;
+    margin: 0.2rem;
+}
+
+.movie-data-list span {
+    font-weight: bold;
+}
+
+.image-container img {
+    margin-top: 2rem;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.back-button-container a {
+    text-decoration: none;
+    color: #630e9c;
+    padding: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
