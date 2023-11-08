@@ -171,3 +171,9 @@ footer ul li a {
     align-items: center;
     justify-content: center;
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
